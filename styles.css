@@ -397,7 +397,7 @@ h4 {
     margin: 4rem 0;
     background: var(--primary-blue);
     overflow-x: hidden;
-    overflow-y: visible;
+    overflow-y: hidden;
     position: relative;
     transform: skewY(-2deg);
     /* Stylish tilt */
